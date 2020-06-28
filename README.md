@@ -2,9 +2,11 @@
 A treatise on essentialism and the nature of things. 
 
 ## Introduction
+> *In the begining there was a story about a story.*
+
 The philosophical definition of *essence* in this praxis is taken as the ontological and idempotent entity that preceeds epistemological truth values of experiences obtained by an existing cognitive being. In this sense, essence is a constituent of the cognitive being that affords the potential for cognition as well as existence simultaneously. This essence has no further parts and is foundational. It ontologically preceeds the concepts of observability and controlability. As such the word "essence" refers to the essence of existence and it is posited here that the very nature of existence includes a conscience that imparts potential for cognition. 
 
-> `Conscience is the essence of mere existence and mere existence is the essence conscience.` 
+> **Conscience is the essence of existence and existence is the essence of conscience.**
 
 The aim of this philosophical work is to accurately and precisely negotiate difficult questions like, "what is essential labour and who is an essential worker?" with closure. 
 
@@ -32,3 +34,5 @@ Let *symantic space* allude to the collection of all concepts that are knowable 
 In discussing what is versus what isn't the implicit assumption of dichotomies is utilized. In explicating such assumptions we can achieve a potential for "checking our assumptions" at any juncture in this version controlled document. 
 
 TODO: continue discussion on logical monads, dichotomies, trichotomies etc. 
+
+> *In the end - [recurse](https://en.wiktionary.org/wiki/recurse#Verb) much?*
