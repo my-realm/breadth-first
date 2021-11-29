@@ -4,13 +4,13 @@ A treatise on essentialism and the nature of things.
 ## Introduction
 > *In the begining there was a story about a story.*
 
-The philosophical definition of *essence* in this praxis is taken as the ontological and idempotent entity that preceeds epistemological truth values of experiences obtained by an existing cognitive being. In this sense, essence is a constituent of the cognitive being that affords the potential for cognition as well as existence simultaneously. This essence has no further parts and is foundational. It ontologically preceeds the concepts of observability and controlability. As such the word "essence" refers to the essence of existence and it is posited here that the very nature of existence includes a conscience that imparts potential for cognition. 
+The philosophical definition of *essence* in this praxis is taken as the ontological and idempotent entity that preceeds epistemological truth values of experiences obtained by an existing cognitive being. In this sense, essence is a constituent of the cognitive being that simultaneously affords the potential for cognition, as well as existence. This essence has no further parts and is foundational. It ontologically preceeds the concepts of observability and controlability. As such. the word "essence" refers to the basis of existence, and thus, it is posited here that the very nature of existence includes a conscience which imparts a potential for cognition to the existent being. 
 
 > **Conscience is the essence of existence and existence is the essence of conscience.**
 
 The aim of this philosophical work is to accurately and precisely negotiate difficult questions like, "what is essential labour and who is an essential worker?" with closure. 
 
-The leap from a definition of an immutable, idempotent essence that happens to be an intangible and nearly ineffable component of all existant entities to the definitions of mutable entities is explored via the following system of epistemology:
+The leap from a definition of a cognitive being that relies on the idea of an immutable, idempotent essence, which can in iteself be an intangible and nearly ineffable component of all existent entities, to the definitions of mutable entities is explored via the following system of epistemology:
 
   - Systems Perspective
   - Logic and Logical Precepts
@@ -22,16 +22,16 @@ The leap from a definition of an immutable, idempotent essence that happens to b
   - Design of Currency
 
 ## Systems Perspective
-The word "being" is taken as a synonym for the word "system" and the definition of the word *word* is provided after a discussion on the concept of concept and the concept of recursion.
+Here, the word "being" is taken as a synonym for the word "physical thing" or "system." And the definition of the word *word* is to be provided after a discussion on the concept of concept, and the concept of recursion.
 
-A system is a collection of entities where the word "entity" is a synonym for the words "thing" and "concept". As such the words - being, system, entity and thing are synonymous within this discourse. Furthermore, a "property" or an "attribute" is an entity that happens to be mutable.
+A system is a collection of entities where the word "entity" alludes to any tangible or intabible part of a cognizer's "reality." As such the words - being, system, entity and thing are synonymous within this discourse. Furthermore, a "property" or an "attribute" of an entity is a thing, that happens to be mutable.
 
-The appropriate deffinition of mutability or changability is discussed after a discussion of "entropy" and "degrees of freedom" so for now, let the sense of such words be the putative definitions available in any English dictionary. 
+The appropriate deffinition of "mutability" or "changability" is discussed after a discussion of "entropy" and "degrees of freedom" so for now, let the sense of such words like mutability be the putative definitions available in any English dictionary. 
 
-Let *symantic space* allude to the collection of all concepts that are knowable and unknowable to a system of maximum cognitive potency. As a philosophical tenant, the existence of the symantic space is decidedly independent of the cognitive system. It is already implied that there exist degrees of cognition and that a cognitive system may achieve the complete absence of cognition to become non-existent or anhialated. 
+Let *symantic space* allude to the collection of all concepts that are knowable and unknowable to a system that has greatest possible cognitive potency in the universe. As a philosophical tenant, the existence of the universe's symantic space is decidedly independent of every humanoid cognitive system. This means that the universe and "its mind" are not contingent on the form and function of any human being or computer based "artificial intelligence." This also implies that there do exist certain functions within the universe, like death, that can allow a being to achieve the complete absence of cognition, to then become non-existent or anhialated. 
 
 ### Presence and Absence
-In discussing what is versus what isn't the implicit assumption of dichotomies is utilized. In explicating such assumptions we can achieve a potential for "checking our assumptions" at any juncture in this version controlled document. 
+In discussing what is versus what isn't "real," the implicit assumption of dichotomies is utilized. In explicating such assumptions we can gain the ability to "check our assumptions" at any juncture in this version controlled document. 
 
 TODO: continue discussion on logical monads, dichotomies, trichotomies etc. 
 
