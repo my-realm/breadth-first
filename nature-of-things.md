@@ -30,7 +30,7 @@ The appropriate definition of "mutability" or "changeability" is discussed after
 
 Let *semantic space* allude to the collection of all concepts that are knowable and unknowable to a system, a system that presumably has greatest possible cognitive potency in the universe. As a philosophical tenant, the existence of the universe's semantic space is decidedly independent of every humanoid cognitive system. This means that the universe and "its mind" are not contingent on the form and function of any human being or any computer based "artificial intelligence." This also implies that certain functions do exist within the universe, like death, that can allow a being to achieve the complete absence of cognition, to then become non-existent or annihilated. 
 
-### Presence and Absence
+#### Presence and Absence
 In discussing what is versus what isn't "real," the implicit assumption of dichotomies is utilized. In explicating such assumptions we can gain the ability to "check our assumptions", as we continue on this journey. 
 
 TODO: continue discussion on logical monad, dichotomies, trichotomies etc. 
